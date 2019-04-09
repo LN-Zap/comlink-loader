@@ -3,7 +3,7 @@
   "version": "1.1.0",
   "description": "Webpack loader: offload modules to Worker threads seamlessly using Comlink",
   "main": "dist/comlink-loader.js",
-  "repository": "GoogleChromeLabs/comlink-loader",
+  "repository": "LN-Zap/comlink-loader",
   "scripts": {
     "build": "microbundle --inline none --format cjs --no-compress src/*.js",
     "prepublishOnly": "npm run build",
